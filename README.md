@@ -13,7 +13,7 @@ emir@archlinux:~$ neofetch --about
 
 > İsim: Emir Bera Soğuk
 > Alan: Yazılım Mühendisliği & Siber Güvenlik Meraklısı
-> OS: Arch Linux
+> OS: Linux
 > Odak: Algoritmalar, Sistem Programlama, OOP
 > Hedef: Karmaşık problemleri basit kodlarla çözmek.
 ```
@@ -23,7 +23,7 @@ emir@archlinux:~$ neofetch --about
 <h2 align="center">🛠️ Yetenekler & Araçlar</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,linux,git,bash,vscode,vim&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,linux,git,bash,neovim&theme=dark" />
 </div>
 
 ---
@@ -32,9 +32,10 @@ emir@archlinux:~$ neofetch --about
 
 | Proje İsmi | Açıklama | Teknoloji |
 |:---|:---|:---|
-| **[Pi Sayısı ile BruteForce](https://github.com/emirberasoguk/Pi_Sayisi_ile_BruteForce_projesi)** | Pi sayısının basamaklarını kullanarak şifre analizi ve kırma denemesi yapan algoritma. | `Python` `Algorithm` |
+| **[Pi-Cracker](https://github.com/emirberasoguk/Pi-Cracker)** | Pi sayısının basamaklarını kullanarak şifre analizi ve kırma denemesi yapan algoritma. | `Python` `Algorithm` |
 | **[C Projects](https://github.com/emirberasoguk/C-Projects)** | Sistem programlama, veri yapıları ve algoritma temelli C uygulamaları koleksiyonu. | `C` `System` |
-| **[Prolab 1 & 2](https://github.com/emirberasoguk/Prolab-1)** | Programlama laboratuvarı dersleri kapsamında geliştirilen kapsamlı projeler. | `C` `Java` `GUI` |
+| **[LidarRansac-C](https://github.com/emirberasoguk/LidarRansac-C)** | Prolab 1 dersi kapsamında geliştirilen, LIDAR verileri üzerinde RANSAC algoritması uygulaması. | `C` `Algorithms` |
+| **[TheLastGarage](https://github.com/emirberasoguk/TheLastGarage)** | Prolab 2 dersi için hazırlanan, veritabanı bağlantılı kapsamlı otopark yönetim sistemi. | `Java` `GUI` |
 | **[NYP Projects](https://github.com/emirberasoguk/NYP-Projects)** | Nesneye Yönelik Programlama prensipleriyle (OOP) tasarlanmış projeler. | `Java` `OOP` |
 
 ---
