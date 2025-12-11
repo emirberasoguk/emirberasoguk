@@ -9,7 +9,7 @@
 <h2 align="center">👨‍💻 Hakkımda</h2>
 
 ```bash
-emir@archlinux:~$ neofetch --about
+emir@linux:~$ neofetch --about
 
 > İsim: Emir Bera Soğuk
 > Alan: Yazılım Mühendisliği & Siber Güvenlik Meraklısı
