@@ -35,7 +35,7 @@ emir@linux:~$ neofetch --about
 | **[Pi-Cracker](https://github.com/emirberasoguk/Pi-Cracker)** | Pi sayısının basamaklarını kullanarak şifre analizi ve kırma denemesi yapan algoritma. | `Python` `Algorithm` |
 | **[C Projects](https://github.com/emirberasoguk/C-Projects)** | Veri yapıları ve algoritma temelli C uygulamaları koleksiyonu. | `C` `System` |
 | **[LidarRansac-C](https://github.com/emirberasoguk/LidarRansac-C)** | Prolab 1 dersi için geliştirilen, LIDAR verileri üzerinde RANSAC algoritması uygulaması. | `C` `Algorithms` |
-| **[TheLastGarage](https://github.com/emirberasoguk/TheLastGarage)** | Prolab 1 dersi için hazırlanan, OOP ilkeleriyle hazırlanan Kule Savunma oyunu . | `Java` `Game` |
+| **[TheLastGarage]()** | Prolab 1 dersi için hazırlanan, OOP ilkeleriyle hazırlanan Kule Savunma oyunu . | `Java` `Game` |
 | **[NYP Projects](https://github.com/emirberasoguk/NYP-Projects)** | Nesneye Yönelik Programlama prensipleriyle (OOP) tasarlanmış projeler. | `Java` `OOP` |
 
 ---
