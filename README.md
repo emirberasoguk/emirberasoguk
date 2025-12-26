@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Merhaba%2C+ben+Emir+Bera;Yaz%C4%B1l%C4%B1m+M%C3%BChendisi;C+%2F+Python+%2F+Java;Arch+Linux+Kullan%C4%B1c%C4%B1s%C4%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Merhaba%2C+ben+Emir+Bera;Yaz%C4%B1l%C4%B1m+M%C3%BChendisi;C+%2F+Python+%2F+Java;Linux+Kullan%C4%B1c%C4%B1s%C4%B1" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -23,7 +23,7 @@
 <h2 align="center">👨‍💻 Hakkımda</h2>
 
 ```bash
-emir@archlinux:~$ neofetch --about
+emir@linux:~$ neofetch --about
 
 > İsim: Emir Bera Soğuk
 > Alan: Yazılım Mühendisliği & Siber Güvenlik Meraklısı
@@ -37,7 +37,7 @@ emir@archlinux:~$ neofetch --about
 <h2 align="center">🛠️ Yetenekler & Araçlar / Skills & Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,linux,git,bash,neovim&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,linux,git,bash,neovim,vim&theme=dark" />
 </div>
 
 ---
