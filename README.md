@@ -6,6 +6,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=header"/>
 </div>
 
+<!-- 
+<div align="center">
+  <a href="mailto:iletisim@emirberasoguk.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/emirberasoguk/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@emirberasoguk">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</div>
+-->
+
 <h2 align="center">👨‍💻 Hakkımda</h2>
 
 ```bash
@@ -20,7 +34,7 @@ emir@archlinux:~$ neofetch --about
 
 ---
 
-<h2 align="center">🛠️ Yetenekler & Araçlar</h2>
+<h2 align="center">🛠️ Yetenekler & Araçlar / Skills & Tools</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,linux,git,bash,neovim&theme=dark" />
@@ -34,13 +48,39 @@ emir@archlinux:~$ neofetch --about
 |:---|:---|:---|
 | **[Pi-Cracker](https://github.com/emirberasoguk/Pi-Cracker)** | Pi sayısının basamaklarını kullanarak şifre analizi ve kırma denemesi yapan algoritma. | `Python` `Algorithm` |
 | **[C Projects](https://github.com/emirberasoguk/C-Projects)** | Sistem programlama, veri yapıları ve algoritma temelli C uygulamaları koleksiyonu. | `C` `System` |
-| **[LidarRansac-C](https://github.com/emirberasoguk/LidarRansac-C)** | Prolab 1 dersi kapsamında geliştirilen, LIDAR verileri üzerinde RANSAC algoritması uygulaması. | `C` `Algorithms` |
-| **[TheLastGarage](https://github.com/emirberasoguk/TheLastGarage)** | Prolab 2 dersi için hazırlanan, veritabanı bağlantılı kapsamlı otopark yönetim sistemi. | `Java` `GUI` |
+| **[LidarRansac-C](https://github.com/emirberasoguk/LidarRansac-C)** | LIDAR verileri üzerinde RANSAC algoritması uygulaması. | `C` `Algorithms` |
+| **[TheLastGarage](https://github.com/emirberasoguk/TheLastGarage)** | Post apokaliptik bir evrende geçen Kule Savunma oyunu. | `Java` `Game` |
 | **[NYP Projects](https://github.com/emirberasoguk/NYP-Projects)** | Nesneye Yönelik Programlama prensipleriyle (OOP) tasarlanmış projeler. | `Java` `OOP` |
+| **[C-ryptFile](https://github.com/emirberasoguk/C-ryptFile)** | Huffman kodlamasını kullanarak dosyalarınızı şifrelemek ve sıkıştırmak için tasarlanmış terminal uygulamasıdır. | `C` `Encrypt` |
 
 ---
 
-<h2 align="center">📊 GitHub İstatistikleri</h2>
+<h2 align="center">🇬🇧 About Me (English)</h2>
+
+```bash
+emir@archlinux:~$ neofetch --about
+
+> Name: Emir Bera Soguk
+> Field: Software Engineering & Cybersecurity Enthusiast
+> OS: Linux
+> Focus: Algorithms, System Programming, OOP
+> Goal: Solving complex problems with simple code.
+```
+
+<h2 align="center">🚀 Selected Projects</h2>
+
+| Project Name | Description | Tech |
+|:---|:---|:---|
+| **[Pi-Cracker](https://github.com/emirberasoguk/Pi-Cracker)** | Algorithm analyzing and attempting to crack passwords using Pi digits. | `Python` `Algorithm` |
+| **[C Projects](https://github.com/emirberasoguk/C-Projects)** | Collection of C applications based on system programming, data structures, and algorithms. | `C` `System` |
+| **[LidarRansac-C](https://github.com/emirberasoguk/LidarRansac-C)** | Implementation of the RANSAC algorithm on LIDAR data. | `C` `Algorithms` |
+| **[TheLastGarage](https://github.com/emirberasoguk/TheLastGarage)** | Tower Defense game set in a post-apocalyptic universe. | `Java` `Game` |
+| **[NYP Projects](https://github.com/emirberasoguk/NYP-Projects)** | Projects designed with Object-Oriented Programming (OOP) principles. | `Java` `OOP` |
+| **[C-ryptFile](https://github.com/emirberasoguk/C-ryptFile)** | Terminal application designed to encrypt and compress files using Huffman coding. | `C` `Encrypt` |
+
+---
+
+<h2 align="center">📊 GitHub İstatistikleri / Stats</h2>
 
 <div align="center">
   <a href="https://github.com/emirberasoguk">
