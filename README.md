@@ -56,6 +56,7 @@ emir@linux:~$ neofetch --about
 | **[C-ryptFile](https://github.com/emirberasoguk/C-ryptFile)** | Huffman kodlamasını kullanarak dosyalarınızı şifrelemek ve sıkıştırmak için tasarlanmış terminal uygulamasıdır. | `C` `Encrypt` |
 | **[Citation Graph Visualizer](https://github.com/HopeLAB-dev/Prolab-3)** | Akademik atıf ağlarını analiz eden ve görselleştiren JavaFX uygulaması. | `Java` `Graph` |
 | **[dotfiles](https://github.com/emirberasoguk/dotfiles)** | Kişisel Linux geliştirme ortamı yapılandırma dosyalarım (Neovim, Zsh vb. yapılandırmaları). | `Bash` `Config` |
+| **[veritabani-calisma-simulasyonu](https://github.com/emirberasoguk/veritabani-calisma-simulasyonu)** | Veritabanı Yönetim Sistemleri (VTYS) dersi final sınavı için geliştirilmiş; interaktif SQL sorgu denemeleri, BCNF ayrıştırması ve dış bellek sıralama maliyeti hesaplama gibi modülleri barındıran Python tabanlı CLI simülatörü. | `Python` `SQLite` `Normalizasyon` |
 | **[emirberasoguk.github.io](https://github.com/emirberasoguk/emirberasoguk.github.io)** | Kişisel web sitem ve portfolyom. | `HTML` `CSS` `JS` |
 
 ---
@@ -86,6 +87,7 @@ emir@archlinux:~$ neofetch --about
 | **[C-ryptFile](https://github.com/emirberasoguk/C-ryptFile)** | Terminal application designed to encrypt and compress files using Huffman coding. | `C` `Encrypt` |
 | **[Citation Graph Visualizer](https://github.com/HopeLAB-dev/Prolab-3)** | JavaFX application visualizing academic citation networks and metrics. | `Java` `Graph` |
 | **[dotfiles](https://github.com/emirberasoguk/dotfiles)** | Personal Linux development environment configuration files (Neovim, Zsh configurations, etc.). | `Bash` `Config` |
+| **[veritabani-calisma-simulasyonu](https://github.com/emirberasoguk/veritabani-calisma-simulasyonu)** | Python-based interactive CLI simulation utility for Database Management Systems (DBMS) final exam preparation, featuring SQL querying, BCNF decomposition, and external merge sort cost calculations. | `Python` `SQLite` `Normalization` |
 | **[emirberasoguk.github.io](https://github.com/emirberasoguk/emirberasoguk.github.io)** | Personal website and portfolio. | `HTML` `CSS` `JS` |
 
 ---
