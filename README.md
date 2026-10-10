@@ -6,19 +6,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=header"/>
 </div>
 
-<!-- 
 <div align="center">
-  <a href="mailto:iletisim@emirberasoguk.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:emirberasoguk@proton.me">
+    <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
   </a>
-  <a href="https://www.linkedin.com/in/emirberasoguk/">
+  <a href="https://www.linkedin.com/in/emir-bera-soguk/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://medium.com/@emirberasoguk">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  <a href="https://emirberasoguk.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
--->
 
 <h2 align="center">👨‍💻 Hakkımda</h2>
 
@@ -26,10 +24,10 @@
 emir@linux:~$ neofetch --about
 
 > İsim: Emir Bera Soğuk
-> Alan: Yazılım Mühendisliği & Siber Güvenlik Meraklısı
+> Alan: Yazılım Mühendisliği & Siber Güvenlik
 > OS: Linux
-> Odak: Algoritmalar, Sistem Programlama, OOP
-> Hedef: Karmaşık problemleri basit kodlarla çözmek.
+> Odak: Algoritmalar, Sistem Programlama, Siber Güvenlik (Red Team), KOUBK Bşk.Yrd.
+> Hedef: Karmaşık problemleri güvenli ve optimize sistemlerle çözmek.
 ```
 
 ---
@@ -37,7 +35,7 @@ emir@linux:~$ neofetch --about
 <h2 align="center">🛠️ Yetenekler & Araçlar / Skills & Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,linux,git,bash,neovim,vim&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,linux,git,bash,neovim,mysql&theme=dark" />
 </div>
 
 ---
@@ -49,6 +47,7 @@ emir@linux:~$ neofetch --about
 | **[Pi-Cracker](https://github.com/emirberasoguk/Pi-Cracker)** | Pi sayısının basamaklarını kullanarak şifre analizi ve kırma denemesi yapan algoritma. | `C` `Bash` `Security` |
 | **[C Projects](https://github.com/emirberasoguk/C-Projects)** | Sistem programlama, veri yapıları ve algoritma temelli C uygulamaları koleksiyonu. | `C` `System` |
 | **[ghelper-linux](https://github.com/emirberasoguk/ghelper-linux)** | ASUS ROG/TUF notebooklar için fan modu, şarj sınırı ve klavye parlaklığı kontrol eden C tabanlı sistem yardımcı programı. | `C` `Linux` `System` |
+| **[InstaVault](https://github.com/emirberasoguk/InstaVault)** | Meta Instagram veri arşivlerini yerelde işleyen, gizlilik ve içerik analitiği sunan açık kaynak veri kasası. | `Python` `Privacy` `Analytics` |
 | **[me-tor](https://github.com/Leylakhalilova/Prolab-2)** | C# ve .NET 10 ile geliştirilmiş, etkileşimli dosya gezgini, geri alma/yineleme (undo/redo) ve VIM benzeri seçim moduna sahip terminal tabanlı metin editörü (MiniNotepad). | `C#` `Terminal` `Editor` |
 | **[LidarRansac-C](https://github.com/emirberasoguk/LidarRansac-C)** | LIDAR verileri üzerinde RANSAC algoritması uygulaması. | `C` `Algorithms` |
 | **[TheLastGarage](https://github.com/emirberasoguk/TheLastGarage)** | Post apokaliptik bir evrende geçen Kule Savunma oyunu. | `Java` `Game` |
@@ -67,10 +66,10 @@ emir@linux:~$ neofetch --about
 emir@archlinux:~$ neofetch --about
 
 > Name: Emir Bera Soguk
-> Field: Software Engineering & Cybersecurity Enthusiast
+> Field: Software Engineering & Cybersecurity
 > OS: Linux
-> Focus: Algorithms, System Programming, OOP
-> Goal: Solving complex problems with simple code.
+> Focus: Algorithms, System Programming, Cybersecurity (Red Team), KOUBK VP
+> Goal: Solving complex problems with secure and optimized code.
 ```
 
 <h2 align="center">🚀 Selected Projects</h2>
@@ -80,6 +79,7 @@ emir@archlinux:~$ neofetch --about
 | **[Pi-Cracker](https://github.com/emirberasoguk/Pi-Cracker)** | Algorithm analyzing and attempting to crack passwords using Pi digits. | `C` `Bash` `Security` |
 | **[C Projects](https://github.com/emirberasoguk/C-Projects)** | Collection of C applications based on system programming, data structures, and algorithms. | `C` `System` |
 | **[ghelper-linux](https://github.com/emirberasoguk/ghelper-linux)** | C-based system utility for ASUS ROG/TUF notebooks to control fan mode, battery charge limits, and keyboard backlight. | `C` `Linux` `System` |
+| **[InstaVault](https://github.com/emirberasoguk/InstaVault)** | Local data vault and analytics tool extracting privacy insights and content metrics from Meta Instagram archives. | `Python` `Privacy` `Analytics` |
 | **[me-tor](https://github.com/Leylakhalilova/Prolab-2)** | Terminal-based text editor (MiniNotepad) built with C# and .NET 10, featuring an interactive file explorer, multi-level undo/redo, and visual selection mode. | `C#` `Terminal` `Editor` |
 | **[LidarRansac-C](https://github.com/emirberasoguk/LidarRansac-C)** | Implementation of the RANSAC algorithm on LIDAR data. | `C` `Algorithms` |
 | **[TheLastGarage](https://github.com/emirberasoguk/TheLastGarage)** | Tower Defense game set in a post-apocalyptic universe. | `Java` `Game` |
