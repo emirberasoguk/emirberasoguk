@@ -1,110 +1,106 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Merhaba%2C+ben+Emir+Bera;Yaz%C4%B1l%C4%B1m+M%C3%BChendisi;C+%2F+Python+%2F+Java;Linux+Kullan%C4%B1c%C4%B1s%C4%B1" alt="Typing SVG" />
-</div>
+<pre><code>
+╭─[ SYSTEM_TERMINAL // ARCH_LINUX_x86_64 ]─────────────────────────────────────╮
+│                                                                              │
+│      ███████╗███╗   ███╗██╗██████╗     ██████╗ ███████╗██████╗  █████╗       │
+│      ██╔════╝████╗ ████║██║██╔══██╗    ██╔══██╗██╔════╝██╔══██╗██╔══██╗      │
+│      █████╗  ██╔████╔██║██║██████╔╝    ██████╔╝█████╗  ██████╔╝███████║      │
+│      ██╔══╝  ██║╚██╔╝██║██║██╔══██╗    ██╔══██╗██╔══╝  ██╔══██╗██╔══██║      │
+│      ███████╗██║ ╚═╝ ██║██║██║  ██║    ██████╔╝███████╗██║  ██║██║  ██║      │
+│      ╚══════╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝      │
+│                                                                              │
+├─[ TELEMETRY ]────────────────────────────────────────────────────────────────┤
+│ OPERATOR : Emir Bera Soğuk (emir@archlinux)                                  │
+│ ROLE     : Software Engineer & Security Researcher                           │
+│ AFFIL    : KOUBK (Kocaeli Uni. CS Club) Vice President                       │
+│ CORE     : Low-Level C | Linux Internals | Algorithmic Engines               │
+│ STATUS   : ONLINE [████████████████████████████████] 100%                    │
+│ INTEGRTY : VERIFIED [OK] | SYSTEM_READY: TRUE                                │
+╰──────────────────────────────────────────────────────────────────────────────╯
+</code></pre>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=header"/>
-</div>
+<pre><code>
+╭─[ QUICK_ACTIONS // IDENTITY & CV ]───────────────────────────────────────────╮
+│                                                                              │
+│ <b>>>> TEK TIKLA CV INDIR / DIRECT RESUME DOWNLOAD:</b>                             │
+│   <a href="https://raw.githubusercontent.com/emirberasoguk/emirberasoguk/main/Emir_Bera_Soguk_CV.pdf"><b>[ ⬇ DOWNLOAD RESUME / CV (PDF DIRECT) ]</b></a>                                    │
+│                                                                              │
+├─[ NETWORKS & CHANNELS ]──────────────────────────────────────────────────────┤
+│   ├─ Web Portfolyo : <a href="https://emirberasoguk.github.io/">https://emirberasoguk.github.io/</a>                        │
+│   ├─ LinkedIn      : <a href="https://www.linkedin.com/in/emir-bera-soguk/">https://linkedin.com/in/emir-bera-soguk/</a>                │
+│   ├─ GitHub        : <a href="https://github.com/emirberasoguk">https://github.com/emirberasoguk</a>                        │
+│   └─ ProtonMail    : <a href="mailto:emirberasoguk@proton.me">emirberasoguk@proton.me</a>                                 │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+</code></pre>
 
-<div align="center">
-  <a href="mailto:emirberasoguk@proton.me">
-    <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
-  </a>
-  <a href="https://www.linkedin.com/in/emir-bera-soguk/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://emirberasoguk.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+<pre><code>
+╭─[ CORE_PROJECTS // SELECTED_ARTIFACTS (10) ]─────────────────────────────────╮
+│                                                                              │
+│ [01] <a href="https://github.com/emirberasoguk/Pi-Cracker"><b>Pi-Cracker</b></a>  ::  [C | Bash | OSINT]                                      │
+│      └─ Pi sayısının basamaklarıyla şifre analizi ve hibrit OSINT saldırı    │
+│         aracı.                                                               │
+│                                                                              │
+│ [02] <a href="https://github.com/emirberasoguk/ghelper-linux"><b>ghelper-linux</b></a>  ::  [C | Linux | Kernel/ACPI]                            │
+│      └─ ASUS ROG/TUF notebooklar için fan modu, pil şarj sınırı ve RGB       │
+│         yöneticisi.                                                          │
+│                                                                              │
+│ [03] <a href="https://github.com/Leylakhalilova/Prolab-2"><b>me-tor / MiniNotepad</b></a>  ::  [C# | .NET 10 | TUI]                          │
+│      └─ LIFO yığıt mimarili, VIM seçim modlu terminal tabanlı metin editörü. │
+│                                                                              │
+│ [04] <a href="https://github.com/emirberasoguk/InstaVault"><b>InstaVault</b></a>  ::  [Python | Privacy | JSON]                               │
+│      └─ Meta Instagram arşivlerini yerelde işleyen açık kaynak gizlilik      │
+│         kasası.                                                              │
+│                                                                              │
+│ [05] <a href="https://github.com/emirberasoguk/veritabani-calisma-simulasyonu"><b>veritabani-calisma-simulasyonu</b></a>  ::  [Python | SQLite | DBMS]            │
+│      └─ BCNF normalizasyonu ve dış bellek merge sort maliyet hesaplama       │
+│         simülatörü.                                                          │
+│                                                                              │
+│ [06] <a href="https://github.com/emirberasoguk/C-ryptFile"><b>C-ryptFile</b></a>  ::  [C | Huffman | Security]                                │
+│      └─ Huffman kodlaması ve şifreleme ile dosya sıkıştırma terminal aracı.  │
+│                                                                              │
+│ [07] <a href="https://github.com/emirberasoguk/LidarRansac-C"><b>LidarRansac-C</b></a>  ::  [C | RANSAC | PointCloud]                            │
+│      └─ LiDAR 2D nokta bulutunda RANSAC algoritması ile doğru tespiti.       │
+│                                                                              │
+│ [08] <a href="https://github.com/emirberasoguk/TheLastGarage"><b>TheLastGarage</b></a>  ::  [Java | LibGDX | Game Engine]                        │
+│      └─ Post-apokaliptik evrende geçen taktiksel Kule Savunma (TD) oyunu.    │
+│                                                                              │
+│ [09] <a href="https://github.com/HopeLAB-dev/Prolab-3"><b>Citation Graph Visualizer</b></a>  ::  [JavaFX | Graph Theory]                  │
+│      └─ Akademik atıf ağlarını analiz eden ve görselleştiren ağ analiz       │
+│         aracı.                                                               │
+│                                                                              │
+│ [10] <a href="https://github.com/emirberasoguk/dotfiles"><b>dotfiles</b></a>  ::  [Bash | Zsh | Neovim | Lua]                               │
+│      └─ Kişisel Linux geliştirme ortamı ve TUI çalışma alanı konfigürasyonu. │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+</code></pre>
 
-<h2 align="center">👨‍💻 Hakkımda</h2>
+<pre><code>
+╭─[ TECHNICAL_ARSENAL // CAPABILITIES ]────────────────────────────────────────╮
+│                                                                              │
+│ CORE SYSTEMS   [████████████████████]  C / Linux POSIX / Bash / Zsh          │
+│ HIGH LEVEL     [████████████████░░░░]  Python / C# (.NET 10) / Java / SQLite │
+│ CYBER SECURITY [██████████████████░░]  Red Team / Ghidra / Wireshark / OSINT │
+│ ALGORITHMIC    [███████████████████░]  RANSAC / Huffman / Graphs / BCNF      │
+│ DEV ENVIRONMENT[████████████████████]  Arch Linux / Neovim / Git / GDB / GCC │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+</code></pre>
 
-```bash
-emir@linux:~$ neofetch --about
-
-> İsim: Emir Bera Soğuk
-> Alan: Yazılım Mühendisliği & Siber Güvenlik
-> OS: Linux
-> Odak: Algoritmalar, Sistem Programlama, Siber Güvenlik (Red Team), KOUBK Bşk.Yrd.
-> Hedef: Karmaşık problemleri güvenli ve optimize sistemlerle çözmek.
-```
-
----
-
-<h2 align="center">🛠️ Yetenekler & Araçlar / Skills & Tools</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,linux,git,bash,neovim,mysql&theme=dark" />
-</div>
-
----
-
-<h2 align="center">🚀 Seçili Projeler</h2>
-
-| Proje İsmi | Açıklama | Teknoloji |
-|:---|:---|:---|
-| **[Pi-Cracker](https://github.com/emirberasoguk/Pi-Cracker)** | Pi sayısının basamaklarını kullanarak şifre analizi ve kırma denemesi yapan algoritma. | `C` `Bash` `Security` |
-| **[C Projects](https://github.com/emirberasoguk/C-Projects)** | Sistem programlama, veri yapıları ve algoritma temelli C uygulamaları koleksiyonu. | `C` `System` |
-| **[ghelper-linux](https://github.com/emirberasoguk/ghelper-linux)** | ASUS ROG/TUF notebooklar için fan modu, şarj sınırı ve klavye parlaklığı kontrol eden C tabanlı sistem yardımcı programı. | `C` `Linux` `System` |
-| **[InstaVault](https://github.com/emirberasoguk/InstaVault)** | Meta Instagram veri arşivlerini yerelde işleyen, gizlilik ve içerik analitiği sunan açık kaynak veri kasası. | `Python` `Privacy` `Analytics` |
-| **[me-tor](https://github.com/Leylakhalilova/Prolab-2)** | C# ve .NET 10 ile geliştirilmiş, etkileşimli dosya gezgini, geri alma/yineleme (undo/redo) ve VIM benzeri seçim moduna sahip terminal tabanlı metin editörü (MiniNotepad). | `C#` `Terminal` `Editor` |
-| **[LidarRansac-C](https://github.com/emirberasoguk/LidarRansac-C)** | LIDAR verileri üzerinde RANSAC algoritması uygulaması. | `C` `Algorithms` |
-| **[TheLastGarage](https://github.com/emirberasoguk/TheLastGarage)** | Post apokaliptik bir evrende geçen Kule Savunma oyunu. | `Java` `Game` |
-| **[NYP Projects](https://github.com/emirberasoguk/NYP-Projects)** | Nesneye Yönelik Programlama prensipleriyle (OOP) tasarlanmış projeler. | `Java` `OOP` |
-| **[C-ryptFile](https://github.com/emirberasoguk/C-ryptFile)** | Huffman kodlamasını kullanarak dosyalarınızı şifrelemek ve sıkıştırmak için tasarlanmış terminal uygulamasıdır. | `C` `Encrypt` |
-| **[Citation Graph Visualizer](https://github.com/HopeLAB-dev/Prolab-3)** | Akademik atıf ağlarını analiz eden ve görselleştiren JavaFX uygulaması. | `Java` `Graph` |
-| **[dotfiles](https://github.com/emirberasoguk/dotfiles)** | Kişisel Linux geliştirme ortamı yapılandırma dosyalarım (Neovim, Zsh vb. yapılandırmaları). | `Bash` `Config` |
-| **[veritabani-calisma-simulasyonu](https://github.com/emirberasoguk/veritabani-calisma-simulasyonu)** | Veritabanı Yönetim Sistemleri (VTYS) dersi final sınavı için geliştirilmiş; interaktif SQL sorgu denemeleri, BCNF ayrıştırması ve dış bellek sıralama maliyeti hesaplama gibi modülleri barındıran Python tabanlı CLI simülatörü. | `Python` `SQLite` `Normalizasyon` |
-| **[emirberasoguk.github.io](https://github.com/emirberasoguk/emirberasoguk.github.io)** | Kişisel web sitem ve portfolyom. | `HTML` `CSS` `JS` |
-
----
-
-<h2 align="center">🇬🇧 About Me (English)</h2>
-
-```bash
-emir@archlinux:~$ neofetch --about
-
-> Name: Emir Bera Soguk
-> Field: Software Engineering & Cybersecurity
-> OS: Linux
-> Focus: Algorithms, System Programming, Cybersecurity (Red Team), KOUBK VP
-> Goal: Solving complex problems with secure and optimized code.
-```
-
-<h2 align="center">🚀 Selected Projects</h2>
-
-| Project Name | Description | Tech |
-|:---|:---|:---|
-| **[Pi-Cracker](https://github.com/emirberasoguk/Pi-Cracker)** | Algorithm analyzing and attempting to crack passwords using Pi digits. | `C` `Bash` `Security` |
-| **[C Projects](https://github.com/emirberasoguk/C-Projects)** | Collection of C applications based on system programming, data structures, and algorithms. | `C` `System` |
-| **[ghelper-linux](https://github.com/emirberasoguk/ghelper-linux)** | C-based system utility for ASUS ROG/TUF notebooks to control fan mode, battery charge limits, and keyboard backlight. | `C` `Linux` `System` |
-| **[InstaVault](https://github.com/emirberasoguk/InstaVault)** | Local data vault and analytics tool extracting privacy insights and content metrics from Meta Instagram archives. | `Python` `Privacy` `Analytics` |
-| **[me-tor](https://github.com/Leylakhalilova/Prolab-2)** | Terminal-based text editor (MiniNotepad) built with C# and .NET 10, featuring an interactive file explorer, multi-level undo/redo, and visual selection mode. | `C#` `Terminal` `Editor` |
-| **[LidarRansac-C](https://github.com/emirberasoguk/LidarRansac-C)** | Implementation of the RANSAC algorithm on LIDAR data. | `C` `Algorithms` |
-| **[TheLastGarage](https://github.com/emirberasoguk/TheLastGarage)** | Tower Defense game set in a post-apocalyptic universe. | `Java` `Game` |
-| **[NYP Projects](https://github.com/emirberasoguk/NYP-Projects)** | Projects designed with Object-Oriented Programming (OOP) principles. | `Java` `OOP` |
-| **[C-ryptFile](https://github.com/emirberasoguk/C-ryptFile)** | Terminal application designed to encrypt and compress files using Huffman coding. | `C` `Encrypt` |
-| **[Citation Graph Visualizer](https://github.com/HopeLAB-dev/Prolab-3)** | JavaFX application visualizing academic citation networks and metrics. | `Java` `Graph` |
-| **[dotfiles](https://github.com/emirberasoguk/dotfiles)** | Personal Linux development environment configuration files (Neovim, Zsh configurations, etc.). | `Bash` `Config` |
-| **[veritabani-calisma-simulasyonu](https://github.com/emirberasoguk/veritabani-calisma-simulasyonu)** | Python-based interactive CLI simulation utility for Database Management Systems (DBMS) final exam preparation, featuring SQL querying, BCNF decomposition, and external merge sort cost calculations. | `Python` `SQLite` `Normalization` |
-| **[emirberasoguk.github.io](https://github.com/emirberasoguk/emirberasoguk.github.io)** | Personal website and portfolio. | `HTML` `CSS` `JS` |
-
----
-
-<h2 align="center">📊 GitHub İstatistikleri / Stats</h2>
+<pre><code>
+╭─[ LIVE_TELEMETRY // GITHUB_METRICS ]─────────────────────────────────────────╮
+│                                                                              │
+│ FETCHING REMOTE METRICS ... [OK]                                             │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+</code></pre>
 
 <div align="center">
   <a href="https://github.com/emirberasoguk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emirberasoguk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirberasoguk&layout=compact&theme=tokyonight"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=emirberasoguk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirberasoguk&layout=compact&theme=tokyonight" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emirberasoguk&theme=tokyonight" alt="emirberasoguk" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=90&section=footer"/>
 </div>
